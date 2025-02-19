@@ -12,7 +12,7 @@ Just pick a calendar, choose an event file, and let PuusonCal do the rest! 🎉
 ### **1️⃣ Clone the Repository**  
 Run the following commands in your terminal:  
 ```sh
-git clone https://github.com/yourusername/PuusonCal.git  
+git clone https://github.com/tinopuu/PuusonCal.git  
 cd PuusonCal  
 ```
 
